@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ideas & Feature Requests
+    url: https://github.com/cleaniquecoders/nadi-issues/discussions/new?category=ideas-feature-requests
+    about: For ideas or feature requests, start a new discussion
+  - name: Documentation Issue
+    url: https://github.com/cleaniquecoders/nadi-docs
+    about: For documentation issues, open a pull request in the cleaniquecoders/nadi-docs repository
